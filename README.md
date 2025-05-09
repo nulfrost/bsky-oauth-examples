@@ -6,4 +6,35 @@ It would be nice to just link to minimal examples to make it easy for people to 
 
 ## JavaScript
 
+### Examples
+
 - [Vanilla JavaScript Example](https://github.com/jvns/bsky-oauth-example) by [@jvns](https://github.com/jvns)
+- [atproto-oauth-example](https://github.com/pilcrowonpaper/atproto-oauth-example/) by [@pilcrowonpaper](https://github.com/pilcrowonpaper)
+
+### Libraries
+
+- [@atproto/oauth-client-browser](https://github.com/bluesky-social/atproto/tree/main/packages/oauth/oauth-client-node) by [@bluesky-social](https://github.com/bluesky-social)
+- [@atproto/oauth-client-node](https://github.com/bluesky-social/atproto/tree/main/packages/oauth/oauth-client-node) by [@bluesky-social](https://github.com/bluesky-social)
+- [@atcute/oauth-browser-client](https://github.com/mary-ext/atcute/tree/trunk/packages/oauth/browser-client) by [@mary-ext](https://github.com/mary-ext)
+- [atproto-oauth-client-react-native](https://github.com/streamplace/atproto-oauth-client-react-native) by [@streamplace](https://github.com/streamplace)
+- [atproto-oauth-js](https://github.com/skorfmann/atproto-oauth-js) by [@skorfmann](https://github.com/skorfmann)
+
+## Ruby
+
+### Examples
+
+TODO
+
+### Libraries
+
+- [atproto_auth](https://github.com/jhuckabee/atproto_auth) by [@jhuckabee](https://github.com/jhuckabee)
+
+## Golang
+
+### Examples
+
+TODO
+
+### Libraries
+
+- [atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) by [@haileyok](https://github.com/haileyok)
