@@ -6,4 +6,4 @@ It would be nice to just link to minimal examples to make it easy for people to 
 
 ## JavaScript
 
-- [Vanilla JavaScript Example](https://github.com/jvns/bsky-oauth-example) by @jvns
+- [Vanilla JavaScript Example](https://github.com/jvns/bsky-oauth-example) by [@jvns](https://github.com/jvns)
