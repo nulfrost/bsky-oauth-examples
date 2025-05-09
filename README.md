@@ -4,6 +4,14 @@ A lot of people that are building applications on atproto ask about how to imple
 
 It would be nice to just link to minimal examples to make it easy for people to quickly scan for the pieces they need to add their applications but I won't say no to bigger applications. The more examples the better.
 
+## Services
+
+> [!NOTE]
+> If you want to get up and running quickly these services are probably the best thing to use. They involve some configuration and then maybe a command or two to get everything set up.
+
+- [authr](https://github.com/blebbit/authr) by [@blebbit](https://github.com/blebbit)
+- [AIP](https://github.com/graze-social/aip) by [@graze-social](https://github.com/graze-social)
+
 ## JavaScript
 
 ### Examples
